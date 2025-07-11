@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/apple/.pub-cache/hosted/pub.dev/flutter_webview_plugin-0.4.0/android"
+    name=":flutter_webview_plugin"
+    type="LIBRARY"
+    maven="com.flutter_webview_plugin:flutter_webview_plugin:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="/Users/apple/Downloads/pnb/git/Innoqlate-PNB-master/build/flutter_webview_plugin"
+    bootClassPath="/Users/apple/Library/Android/sdk/platforms/android-28/android.jar:/Users/apple/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-28"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

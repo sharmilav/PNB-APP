@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/apple/.pub-cache/hosted/pub.dev/external_app_launcher-4.0.3/android"
+    name=":external_app_launcher"
+    type="LIBRARY"
+    maven="com.example.launchexternalapp:external_app_launcher:1.0"
+    agpVersion="8.7.0"
+    buildFolder="/Users/apple/Downloads/pnb/git/Innoqlate-PNB-master/build/external_app_launcher"
+    bootClassPath="/Users/apple/Library/Android/sdk/platforms/android-34/android.jar:/Users/apple/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

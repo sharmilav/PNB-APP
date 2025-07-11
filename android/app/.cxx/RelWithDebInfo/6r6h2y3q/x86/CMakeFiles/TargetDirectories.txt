@@ -1,0 +1,2 @@
+/Users/apple/Downloads/pnb/git/Innoqlate-PNB-master/android/app/.cxx/RelWithDebInfo/6r6h2y3q/x86/CMakeFiles/edit_cache.dir
+/Users/apple/Downloads/pnb/git/Innoqlate-PNB-master/android/app/.cxx/RelWithDebInfo/6r6h2y3q/x86/CMakeFiles/rebuild_cache.dir

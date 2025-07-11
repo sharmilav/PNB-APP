@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.innoqlate.innlite_mobile.app-debug-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.innoqlate.innlite_mobile.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.innoqlate.innlite_mobile.app-debug-47:/drawable_logo.png.flat",
+        "source": "com.innoqlate.innlite_mobile.app-main-42:/drawable/logo.png"
+    },
+    {
+        "merged": "com.innoqlate.innlite_mobile.app-debug-47:/drawable-v21_launch_background.xml.flat",
+        "source": "com.innoqlate.innlite_mobile.app-main-42:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.innoqlate.innlite_mobile.app-debug-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.innoqlate.innlite_mobile.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.innoqlate.innlite_mobile.app-debug-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.innoqlate.innlite_mobile.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.innoqlate.innlite_mobile.app-debug-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.innoqlate.innlite_mobile.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.innoqlate.innlite_mobile.app-debug-47:/drawable_pnblogo.png.flat",
+        "source": "com.innoqlate.innlite_mobile.app-main-42:/drawable/pnblogo.png"
+    },
+    {
+        "merged": "com.innoqlate.innlite_mobile.app-debug-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.innoqlate.innlite_mobile.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

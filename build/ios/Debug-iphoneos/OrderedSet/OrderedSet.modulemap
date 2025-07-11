@@ -1,0 +1,12 @@
+module OrderedSet {
+  umbrella header "OrderedSet-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module OrderedSet.Swift {
+  header "/Users/apple/Downloads/pnb/git/Innoqlate-PNB-master/build/ios/Debug-iphoneos/OrderedSet/Swift Compatibility Header/OrderedSet-Swift.h"
+  requires objc
+}
